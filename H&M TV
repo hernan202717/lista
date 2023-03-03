@@ -1,39 +1,4 @@
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DK",Discovery Kids
-http://clubtv.link/2700feb/top4620/lista1.php?c=a045&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Discovery World",Discovery World
-http://clubtv.link/2700feb/top4620/lista1.php?c=a052&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DHE",DHE
-http://clubtv.link/2700feb/top4620/lista1.php?c=a006&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",HBO+
-http://clubtv.link/2700feb/top4620/lista1.php?c=a0ru&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Discovery Turbo",Discovery Turbo
-http://clubtv.link/2700feb/top4620/lista1.php?c=a049&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBO XTREME",HBO XTREME
-http://clubtv.link/2700feb/top4620/lista1.php?c=a00g&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBO",HBO
-http://clubtv.link/2700feb/top4620/lista1.php?c=a00c&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Cine Latino",Cine Latino
-http://clubtv.link/2700feb/top4620/lista1.php?c=a04k&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Pasiones",Pasiones
-http://clubtv.link/2700feb/top4620/lista1.php?c=a053&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Universal Comedy",Universal Comedy
-http://clubtv.link/2700feb/top4620/lista1.php?c=a03x&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Canal Claro",Canal Claro 
-http://clubtv.link/2700feb/top4620/lista1.php?c=a00a&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Universal Tv",Universal Tv
-http://clubtv.link/2700feb/top4620/lista1.php?c=a04h&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="H&H",H&H
-http://clubtv.link/2700feb/top4620/lista1.php?c=a0r2&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Cinemax",Cinemax
-http://clubtv.link/2700feb/top4620/lista1.php?c=a04l&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN 2",ESPN 2
-http://clubtv.link/2700feb/top4620/lista1.php?c=a04w&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBO Family",HBO Family
-http://clubtv.link/2700feb/top4620/lista1.php?c=a00f&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Studio Universal",Studio Universal
-http://clubtv.link/2700feb/top4620/lista1.php?c=a04m&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBO 2",HBO 2
-http://clubtv.link/2700feb/top4620/lista1.php?c=a00d&f=.m3u8
+
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="ENLACE",ENLACE
 https://1-221-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="CARACOL HD",CARACOL
