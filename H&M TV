@@ -36,3 +36,7 @@ http://clubtv.link/2700feb/top4620/lista1.php?c=a04m&f=.m3u8
 http://clubtv.link/2700feb/top4620/lista1.php?c=a00d&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="ENLACE",ENLACE
 https://1-221-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CARACOL HD",CARACOL
+https://s01.castamp.com/live/c1feb25/chunklist.m3u8?h=OeF1vxH2vku9SW0_FvGC9A&e=1677902875&u=883dc565d690888f22c6a4442384a0dd&d=179_1_110_145
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="RCN",RCN
+https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRq82mSRJJKj1M40p4dP-HKnl8vTfHmbTY7dp7mQToPD)/dm/3/x7vyv0z/s/live-2.m3u8#cell=lsv4
